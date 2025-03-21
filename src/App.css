@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.addtocart {
+  background-color: rgb(7, 126, 195);
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card{
+  border: 1px solid;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
