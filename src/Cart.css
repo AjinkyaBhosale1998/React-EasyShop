@@ -1,3 +1,26 @@
+.cart {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+    margin: 0 5px;
+  }
+  
 .incraese {
     color: white;
     background-color: green;
@@ -7,3 +30,8 @@
     color: white;
     background-color: red;
 }
+
+.gift {
+    color: green;
+    font-weight: bold;
+  }
