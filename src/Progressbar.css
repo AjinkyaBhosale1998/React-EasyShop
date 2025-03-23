@@ -1,0 +1,15 @@
+.progressbar {
+    width: 100%;
+    background: #ddd;
+    height: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background: rgb(40, 119, 222);
+    transition: width 0.3s ease-in-out;
+    border-radius: 5px;
+}
